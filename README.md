@@ -1,4 +1,4 @@
-# Project Name  VRMod11Sample
+# Project Name  VRMod12Sample
 <img src="Saved/AutoScreenshot.png" width="320"  align="right" />
 
 ## Description
@@ -11,7 +11,7 @@ Clone, or download the zip, to a local directory. Open in Unreal Engine 5.4 or n
 ## Attributions
 1. Stone door , OpenGameArt, < https://opengameart.org/content/stone-door  >
 2. Coin collected, OPenGameArt, < https://opengameart.org/content/gold-coin-6 >
-3. Spray paint soud, OpenGameArt, < https://opengameart.org/content/yucchis-assorted-sounds-1 >
+3. Spray paint sound, OpenGameArt, < https://opengameart.org/content/yucchis-assorted-sounds-1 >
 3. Background music, < https://pixabay.com/music/modern-classical-soft-background-piano-285589 >
 
 
